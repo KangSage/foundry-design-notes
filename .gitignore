@@ -20,3 +20,4 @@ results/raw/
 
 # local business-word blocklist (the list itself is private)
 .public-safe-words
+._*
